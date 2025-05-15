@@ -27,7 +27,7 @@ local Window = Rayfield:CreateWindow({
         FileName = "FASTHUBKey",
         SaveKey = true,
         GrabKeyFromSite = false,
-        Key = { "NEW_FASTHUB1" }
+        Key = { "NEW_FASTHUB33" }
     }
 })
 
